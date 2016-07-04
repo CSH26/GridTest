@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
     Resources res;
     int max;
 
+
+    //Test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
